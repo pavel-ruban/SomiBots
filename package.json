@@ -1,0 +1,22 @@
+{
+  "name": "somi_bots",
+  "version": "1.0.0",
+  "description": "Crystall Bot for I20 Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.i20.biz:devicement/somi_bots.git"
+  },
+  "keywords": [
+    "somi_bot"
+  ],
+  "author": "Pavel Ruban",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.1"
+  }
+}
