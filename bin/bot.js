@@ -1,8 +1,8 @@
-# bin/bot.js
+// bin/bot.js
 
 'use strict';
 
-var NorrisBot = require('../lib/somi_bot');
+var SomiBot = require('../lib/somi_bot');
 
 var token = process.env.BOT_API_KEY;
 var dbPath = process.env.BOT_DB_PATH;
